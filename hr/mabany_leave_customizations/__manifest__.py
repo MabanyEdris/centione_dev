@@ -26,6 +26,7 @@
     'data': [
         # 'security/ir.model.access.csv',
         'views/hr_leave.xml',
+        'data/server_action.xml',
     ],
     # only loaded in demonstration mode
     # 'demo': [
